@@ -3,7 +3,11 @@
 Nếu chưa cài đặt các thư viện, chạy tập này trước khi chạy các file Jupyter
 
 !pip install numpy
+
 !pip install pandas
+
 !pip install matplotlib
+
 !pip install seaborn
+
 !pip install scipy
