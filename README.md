@@ -1,13 +1,4 @@
-# Forecasting Stock Prices of Banking Sector Companies on HOSE by Using Statistics, Machine Learning and Deep Learning  
+# Investigating the Efficacy of Statistical, Machine Learning, and Deep Learning Approaches in Steel Stock Price Prediction
 
-Nếu chưa cài đặt các thư viện, chạy tập này trước khi chạy các file Jupyter
-
-!pip install numpy
-
-!pip install pandas
-
-!pip install matplotlib
-
-!pip install seaborn
-
-!pip install scipy
+## 1. Abstract
+This study explores the prediction of stock prices for steel sector companies listed on the Ho Chi Minh Stock Exchange (HOSE). By employing a blend of statistical methods, machine learning techniques, and deep learning models, encompassing Vector Autoregressive Moving Average (VARMA), linear regression model, ARIMA, bagging models with decision trees and cost-sensitive, RNN, GRU, LSTM and Residual Networks (RESNET), our aim is to deliver precise forecasts of stock prices for Hoa Phat Group Joint Stock Company, Hoa Sen Group Joint Stock Company, and Nam Kim Steel Joint Stock Company. Through empirical analysis and comparative evaluation of these approaches, this study contributes to the advancement of stock price prediction methodologies within the steel sector.
